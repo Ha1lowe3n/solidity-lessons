@@ -1,0 +1,23 @@
+{
+  "name": "ilya-krukowski",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ha1lowe3n/solidity-lessons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ha1lowe3n/solidity-lessons/issues"
+  },
+  "homepage": "https://github.com/Ha1lowe3n/solidity-lessons#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.3"
+  }
+}
